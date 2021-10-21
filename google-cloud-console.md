@@ -6,15 +6,15 @@
 
 대시보드에서 '프로젝트 만들기' 링크를 클릭한다.
 
-![](<.gitbook/assets/image (44).png>)
+![](.gitbook/assets/image-44.png)
 
 프로젝트 이름을 입력하고 '만들기' 버튼을 클릭한다.
 
-![](<.gitbook/assets/image (59).png>)
+![](.gitbook/assets/image-59.png)
 
 프로젝트가 생성되면 '알림' 레이어를 표시하고 대시 보드가 변경된다. 
 
-![](<.gitbook/assets/image (24).png>)
+![](.gitbook/assets/image (24).png>)
 
 
 
@@ -24,20 +24,20 @@
 
 구글 클라우드 API를 사용하려면 사용하려는 API에 대한 사용 설정을 해야 한다. "API 및 서비스>라이브러리"를 선택한다.
 
-![](<.gitbook/assets/image (48).png>)
+![](.gitbook/assets/image-48.png)
 
 
 
 Google Workspace의 '모두보기(18개)'를 클릭한다. 
 
-![](<.gitbook/assets/image (19).png>)
+![](.gitbook/assets/image-19.png)
 
 이 튜터리얼에서는 Google Drive API를 선택할 것이다. Google Drive API를 클릭한다.
 
-\
 
 
-![](<.gitbook/assets/image (46).png>)
+
+![](.gitbook/assets/image-46.png)
 
 '사용' 버튼을 클릭한다. 위에서 설명한 방법대로 사용하려고 하는 모든 API들은 모두 활성화한다.
 
@@ -57,7 +57,7 @@ Google Workspace의 '모두보기(18개)'를 클릭한다.
 
 
 
-![](<.gitbook/assets/image (38).png>)
+![](.gitbook/assets/image-38.png)
 
 
 
@@ -65,7 +65,7 @@ Google Workspace의 '모두보기(18개)'를 클릭한다.
 
 G Suite(Workspace) 조직내의 사용자만이 사용하는 경우에는 "내부"를 선택하고 Google 계정이 있는 모든 사용자가 사용할 수 있도록 하려면 "외부"를 선택한다.
 
-![](<.gitbook/assets/image (39).png>)
+![](.gitbook/assets/image-39.png)
 
 
 
@@ -75,7 +75,7 @@ G Suite(Workspace) 조직내의 사용자만이 사용하는 경우에는 "내�
 
 
 
-![](<.gitbook/assets/image (23).png>)
+![](.gitbook/assets/image-23.png)
 
 
 
@@ -83,7 +83,7 @@ G Suite(Workspace) 조직내의 사용자만이 사용하는 경우에는 "내�
 
 
 
-![](<.gitbook/assets/image (31).png>)
+![](.gitbook/assets/image-31.png)
 
 
 
@@ -95,13 +95,13 @@ G Suite(Workspace) 조직내의 사용자만이 사용하는 경우에는 "내�
 
 
 
-![](<.gitbook/assets/image (6).png>)
+![](.gitbook/assets/image-6.png)
 
 
 
 '필터' 부분에 범위를 선택할 API를 입력한다.
 
-![](<.gitbook/assets/image (11).png>)
+![](.gitbook/assets/image-11.png)
 
 
 
@@ -109,13 +109,13 @@ Drive를 입력하면 Google Drive API와 관련된 선택할 수 있는 범위�
 
 
 
-![](<.gitbook/assets/image (40).png>)
+![](.gitbook/assets/image-40.png)
 
 
 
 앱에서 사용할 피룡한 범위들을 선택한다. 
 
-![](<.gitbook/assets/image (18).png>)
+![](.gitbook/assets/image-18.png)
 
 
 
@@ -123,7 +123,7 @@ Drive를 입력하면 Google Drive API와 관련된 선택할 수 있는 범위�
 
 하단에 보면 '업데이트' 버튼이 보인다. 클릭한다. 
 
-![](<.gitbook/assets/image (26).png>)
+![](.gitbook/assets/image-26.png)
 
 
 
@@ -135,7 +135,7 @@ Drive를 입력하면 Google Drive API와 관련된 선택할 수 있는 범위�
 
 
 
-![](<.gitbook/assets/image (27).png>)
+![](.gitbook/assets/image-27.png)
 
 
 
@@ -143,4 +143,4 @@ Drive를 입력하면 Google Drive API와 관련된 선택할 수 있는 범위�
 
 
 
-![](<.gitbook/assets/image (42).png>)
+![](.gitbook/assets/image-42.png)

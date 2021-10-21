@@ -4,41 +4,41 @@
 
 왼쪽 네비게이션 메뉴의 "네트워킹"을 클릭하고 "가상 클랑우드 네트워크"를 클릭한다.
 
-![](<../.gitbook/assets/image (49).png>)
+![](../.gitbook/assets/image-49.png)
 
 '루트 구획 내 가상 클라우드 네트워크' 화면에서 VM 생성할 때 생성된 네트워크 구성이 보일 것이다. 링크를 클릭한다.
 
-![](<../.gitbook/assets/image (30).png>)
+![](../.gitbook/assets/image-30.png)
 
 
 
 '루트 구획 내 서브넷' 화면에서 생성된 서브넷 링크를 클릭한다. 
 
-![](<../.gitbook/assets/image (58).png>)
+![](../.gitbook/assets/image-58.png)
 
 
 
 서브넷 화면이 표시되면 생성된 보안 목록이 모일 것이다. 링크를 클릭한다. 
 
-![](<../.gitbook/assets/image (55).png>)
+![](../.gitbook/assets/image-55.png)
 
 
 
 수신 규칙 화면에서 '수신 규칙 추가' 버튼을 클릭한다. 
 
-![](<../.gitbook/assets/image (34).png>)
+![](../.gitbook/assets/image-34.png)
 
 
 
 수신규칙 설정 화면에서 '소스유형은' 그대로 두고 '소스에 '0.0.0.0/0'으로 설정한다. 모든 곳에서 오는 아이피를 허용하겠다는 의미이다. IP 프로토콜은 디폴트인 TCP로 둔다. 소스 포트 범위는 입력하지 않는다. 이제 외부에서 들어오는 모든 접속 중에서 허용할 VM의 포트를 설정한다. 콤마를 사용하여 여러개 지정할 수 있다. 80번, 443, 8080을 허용한다.
 
-![](<../.gitbook/assets/image (53).png>)
+![](../.gitbook/assets/image-53.png)
 
 
 
 입력을 다 했으면 '수신 규칙 추가' 버튼을 클릭한다. 설정된 수신규칙이 목록에 보일 것이다.
 
-![](<../.gitbook/assets/image (9).png>)
+![](../.gitbook/assets/image-9.png)
 
 
 

@@ -4,7 +4,7 @@
 
 등록을 하면 다음과 같은 화면이 나온다.
 
-![](<../.gitbook/assets/image (63).png>)
+![](../.gitbook/assets/image-63.png)
 
 
 
@@ -16,25 +16,25 @@
 
 먼저 인스턴스의 이름을 입력한다.
 
-![](<../.gitbook/assets/image (43).png>)
+![](../.gitbook/assets/image-43.png)
 
 
 
 OS를 직접 선택할 수 있다. '편집' 링크를 클릭한다.
 
-![](<../.gitbook/assets/image (5).png>)
+![](../.gitbook/assets/image-5.png)
 
 
 
 우분투를 선택해 보자. 맨 아래에 '이미지 선택' 버튼을 클릭한다.
 
-![](<../.gitbook/assets/image (7).png>)
+![](../.gitbook/assets/image-7.png)
 
 
 
 이미지 및 구성이 다음과 같이 화면이 변경된다.
 
-![](<../.gitbook/assets/image (29).png>)
+![](../.gitbook/assets/image-29.png)
 
 
 
@@ -50,20 +50,19 @@ OS를 직접 선택할 수 있다. '편집' 링크를 클릭한다.
 
 
 
-![](<../.gitbook/assets/image (15).png>)
+![](../.gitbook/assets/image-15.png)
 
 나머지 설정은 무시하고 맨 아래의 '생성' 버튼을 클릭한다. 인스턴스 생성 결과가 화면에 표시된다.
 
 
 
-![](<../.gitbook/assets/image (13).png>)
+![](../.gitbook/assets/image-13.png)
 
 
 
 VM에 접근할 수 있는 네트워크 정보도 표시된다.
 
-![](<../.gitbook/assets/image (61).png>)
-
+![](../.gitbook/assets/image-61.png)
 
 
 ## 블록 볼륨 리소스 생성
@@ -82,13 +81,13 @@ VM에 접근할 수 있는 네트워크 정보도 표시된다.
 
 
 
-![](<../.gitbook/assets/image (41).png>)
+![](../.gitbook/assets/image-41.png)
 
 '블록 볼륨 생성' 버튼을 클릭한다.
 
 
 
-![](<../.gitbook/assets/image (21).png>)
+![](../.gitbook/assets/image-21.png)
 
 
 
@@ -100,13 +99,13 @@ VM에 접근할 수 있는 네트워크 정보도 표시된다.
 
 
 
-![](<../.gitbook/assets/image (1).png>)
+![](../.gitbook/assets/image-1.png)
 
 왼쪽 하단에 '연결된 인스턴스' 링크가 보일 것이다. 클릭한다. 
 
 
 
-![](<../.gitbook/assets/image (14).png>)
+![](../.gitbook/assets/image-14.png)
 
 
 
@@ -114,7 +113,7 @@ VM에 접근할 수 있는 네트워크 정보도 표시된다.
 
 '인스턴스에 연결' 버튼을 클릭한다. 
 
-![](<../.gitbook/assets/image (54).png>)
+![](../.gitbook/assets/image-54.png)
 
 
 
@@ -127,7 +126,7 @@ VM에 접근할 수 있는 네트워크 정보도 표시된다.
 
 
 
-![](<../.gitbook/assets/image (60).png>)
+![](../.gitbook/assets/image-60.png)
 
 
 
@@ -135,7 +134,7 @@ VM에 접근할 수 있는 네트워크 정보도 표시된다.
 
 인결된 인스턴스 링크의 오른쪽에 '생성' 열이 있다. 여기서 더보기 매뉴를 클릭하여 'ISCSI 명령 및 정보'를 클릭한다.
 
-![](<../.gitbook/assets/image (28).png>)
+![](../.gitbook/assets/image-28.png)
 
 
 
@@ -143,7 +142,7 @@ VM에 접근할 수 있는 네트워크 정보도 표시된다.
 
 'iSCSI 명령 및 정보' 화면이 표시되는데 명령어들을 복사한다.
 
-![](<../.gitbook/assets/image (16).png>)
+![](../.gitbook/assets/image-16.png)
 
 
 

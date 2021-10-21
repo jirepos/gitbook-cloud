@@ -2,13 +2,13 @@
 
 네이버 클라우드 콘솔에 로그인한다. 네이버 지도 API 페이지로 이동한다. 아래 그림과 같이 '이용 신청하기' 버튼이 보인다. 이것을 클릭한다.
 
-![](<.gitbook/assets/image (17).png>)
+![](.gitbook/assets/image-17.png)
 
 
 
 결재 정보가 없으면 나중에 이용에 제한이 있을 수 있다고 한다. 결재수단을 등록한다.
 
-![](<.gitbook/assets/image (52).png>)
+![](.gitbook/assets/image-52.png)
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-![](<.gitbook/assets/image (8).png>)
+![](.gitbook/assets/image-8.png)
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-![](<.gitbook/assets/image (62).png>)
+![](.gitbook/assets/image-62.png)
 
 
 
@@ -38,25 +38,25 @@
 
 Application 이름을 입력한다. 
 
-![](<.gitbook/assets/image (12).png>)
+![](.gitbook/assets/image-12.png)
 
 
 
 아래에 Application에서 사용할 서비스를 선택한다.
 
-![](<.gitbook/assets/image (37).png>)
+![](.gitbook/assets/image-37.png)
 
 하단의 서비스 환경 등록 섹션에서 'Web Service URL'을 입력하고 '추가' 버튼을 클릭한다. 
 
-![](<.gitbook/assets/image (3).png>)
+![](.gitbook/assets/image-3.png)
 
 맨 하단에 '등록' 버튼을 클릭한다. 등록한 Appliation 정보가 표시된다.
 
-![](<.gitbook/assets/image (32).png>)
+![](.gitbook/assets/image-32.png>)
 
 '인증정보' 버튼을 클릭한다. Application 인증정보가 표시된다.
 
-![](<.gitbook/assets/image (35).png>)
+![](.gitbook/assets/image-35.png)
 
 자세한 정보는 다음을 참고한다.
 

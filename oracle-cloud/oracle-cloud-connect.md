@@ -10,7 +10,7 @@ Putty Key Generator를 실행한다. 다른 설정은 변경할 필요가 없이
 
 
 
-![](<../.gitbook/assets/image (57).png>)
+![](../.gitbook/assets/image-57.png)
 
 런데 계속 마우스를 화면위에서 움직여야한다. 마우스의 움직임을 가지고 키를 생성한다. 계속하면 완료된다.
 
@@ -32,13 +32,13 @@ Putty Key Generator를 실행한다. 다른 설정은 변경할 필요가 없이
 
 putty를 실행한다. 'Host Name(or IP address)'에 접속 아이피를 입력한다.
 
-![](<../.gitbook/assets/image (47).png>)
+![](../.gitbook/assets/image-47.png)
 
 
 
 Connection>SSH>Auth를 선택한다. 'Browse' 버튼을 클릭하여 개인키 파일을 설정한다.
 
-![](<../.gitbook/assets/image (51).png>)
+![](../.gitbook/assets/image-51.png)
 
 
 
@@ -56,13 +56,13 @@ Putty 보다는 MobaXTerm을 쓰는 것이 UI도 편리하고 쉽다. 그런데 
 
 
 
-![](<../.gitbook/assets/image (50).png>)
+![](../.gitbook/assets/image-50.png)
 
 
 
 창이 표시되면, 'PPK file version'의 값을 '2'로 설정한다. 'OK' 버튼을 클릭한다. 
 
-![](<../.gitbook/assets/image (36).png>)
+![](../.gitbook/assets/image-36.png)
 
 
 
@@ -70,17 +70,17 @@ Putty 보다는 MobaXTerm을 쓰는 것이 UI도 편리하고 쉽다. 그런데 
 
 MobaxTerm의 왼쪽의 Sessions 탭에서 우측 마우스 버튼을 클릭하여 New Session을 선택한다. 
 
-![](<../.gitbook/assets/image (2).png>)
+![](../.gitbook/assets/image-2.png)
 
 'SSH' 버튼을 클릭한다. 
 
-![](<../.gitbook/assets/image (10).png>)
+![](../.gitbook/assets/image-10.png)
 
 
 
 'Remote Host'에 IP를 입력하고 'Specify username'에 'ubuntu'를 입력한다. 
 
-![](<../.gitbook/assets/image (45).png>)
+![](../.gitbook/assets/image-45.png)
 
 
 
@@ -88,13 +88,13 @@ MobaxTerm의 왼쪽의 Sessions 탭에서 우측 마우스 버튼을 클릭하�
 
 'Advanced SSH Settings' 탭을 클릭하고 'Use Private key'를 체크한다. 그리고 이전에 저장한 개인키를 선택한다. 
 
-![](<../.gitbook/assets/image (56).png>)
+![](../.gitbook/assets/image-56.png)
 
 
 
 아래 OK 버튼을 클릭하고 저장을 한다. 'Sessions' 탭에서 생성한 커넥션을 더블 클릭하면 다음과 같이 접속이 될 것이다.
 
-![](<../.gitbook/assets/image (22).png>)
+![](../.gitbook/assets/image-22.png)
 
 
 
@@ -102,7 +102,7 @@ MobaxTerm의 왼쪽의 Sessions 탭에서 우측 마우스 버튼을 클릭하�
 
 '파일 프로토콜'은 SFTP를 선택한다. '호스트 이름'에 IP를 입력한다. 사용자 이름에 'ubuntu'를 입력한다. '고급' 버튼을 클릭한다.
 
-![](<../.gitbook/assets/image (33).png>)
+![](../.gitbook/assets/image-33.png)
 
 
 
@@ -110,7 +110,7 @@ MobaxTerm의 왼쪽의 Sessions 탭에서 우측 마우스 버튼을 클릭하�
 
 'SSH>인증'을 클릭하고 '개인키 파일'에 저정된 개인키를 선택한다.
 
-![](<../.gitbook/assets/image (20).png>)
+![](../.gitbook/assets/image-20.png)
 
 
 
@@ -120,4 +120,4 @@ MobaxTerm의 왼쪽의 Sessions 탭에서 우측 마우스 버튼을 클릭하�
 
 생성한 세션을 클릭하여 로그인한다. 오른쪽에 ubuntu 사용자의 홈디렉토리가 표시될 것이다.
 
-![](<../.gitbook/assets/image (4).png>)
+![](../.gitbook/assets/image-4.png)
