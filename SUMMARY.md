@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Cloud API 정리](README.md)
 * [Naver Cloud Console 설정](naver-cloud-console.md)
 * [구글 클라우드 콘솔 설정](google-cloud-console.md)
 * [Oracle Cloud](oracle-cloud/README.md)
